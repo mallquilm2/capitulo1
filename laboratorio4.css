@@ -1,0 +1,30 @@
+table.formal {
+border-collapse: collapse;
+border: 1px solid #444;
+margin: auto;
+width: 500px;
+}
+table.formal caption {
+text-align: left;
+font-weight: bold;
+padding: 6px 12px;
+background-color: #5b9bd5;
+}
+table.formal thead td, table.formal thead th,
+table.formal tfoot td, table.formal tfoot th {
+background-color: #5b9bd5;
+font-weight: bold;
+}
+table.formal td, table.formal th {
+border: 1px solid #fff;
+padding: 4px 8px;
+}
+table.formal tr:nth-of-type(odd) {
+background-color: #bdd7ee;
+}
+table.formal tr:nth-of-type(even) {
+background-color: #ddebf7;
+}
+table.formal tbody tr:hover {
+background-color: #ffff99;
+}
