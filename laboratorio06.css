@@ -1,0 +1,17 @@
+form.formal legend{
+    border:1px solid #444;
+    padding:6px 12px;
+    background-color:#5b9bd5;
+}
+
+form.formal fieldset{
+    background-color:#bdd7ee;
+}
+
+form.formal table.main{
+    margin-top:12px;
+}
+
+form.formal input[type='text']:hover{
+    background-color:#ffff99;
+}
