@@ -1,0 +1,38 @@
+header {
+border: 1px solid #ddd;
+background-color: #663300;
+color: #fff;
+}
+nav {
+border: 1px solid #ddd;
+border-top: none;
+padding: 16px;
+background-color: #ffcc99;
+}
+section {
+float: left;
+width: 65%;
+padding: 8px;
+border-left: 1px solid #ddd;
+padding: 12px;
+}
+aside {
+float: right;
+width: 25%;
+border: 1px solid #ddd;
+border-top: none;
+padding: 8px;
+background-color: #ddaa77;
+}
+footer {
+clear: both;
+border: 1px solid #ddd;
+background-color: #ffcc99;
+}
+body {
+color: #333;
+background-color: #ffd;
+}
+td {
+padding: 5px 12px;
+}
